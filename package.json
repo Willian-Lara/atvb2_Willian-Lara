@@ -1,0 +1,27 @@
+{
+  "name": "atvb2_Willian-Lara",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Willian-Lara/atvb2_Willian-Lara.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Willian-Lara/atvb2_Willian-Lara/issues"
+  },
+  "homepage": "https://github.com/Willian-Lara/atvb2_Willian-Lara#readme",
+  "dependencies": {
+    "angular": "^1.8.0",
+    "angular-route": "^1.8.0",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "ngstorage": "^0.3.11"
+  }
+}
